@@ -1,8 +1,10 @@
 # L'IA: le stagiaire ultime ou le boss de demain ?
 Abstract: 
 
-### Level: Beginner
-### Languages: Français
+### Level: 
+- Beginner
+### Languages: 
+- Français
 ## References
 ### Steps
 #### I - L'IA est-elle tabou en 2025 ?
